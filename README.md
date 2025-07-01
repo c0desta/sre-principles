@@ -5,6 +5,7 @@ This document outlines a set of Site Reliability Engineering (SRE) best practice
 ## Table of Contents
 - [CI/CD Pipelines](#cicd-pipelines)
 - [Collaboration and Communication](#collaboration-and-communication)
+- [Service Level Management: SLIs, SLOs, and Error Budgets](#service-level-management-slis-slos-and-error-budgets)
 - [Compliance and Security](#compliance-and-security)
 - [Cost Management](#cost-management)
 - [Incident Management](#incident-management)
@@ -94,6 +95,15 @@ This document outlines a set of Site Reliability Engineering (SRE) best practice
 3.  **Feedback Mechanisms**:
     -   Implement regular feedback mechanisms to gather input from team members on communication practices.
     -   Use surveys, retrospectives, or one-on-one meetings to solicit feedback and make improvements.
+
+---
+
+## Service Level Management: SLIs, SLOs, and Error Budgets
+
+Service Level Indicators (SLIs), Service Level Objectives (SLOs), and Error Budgets are the cornerstone of SRE, providing a data-driven framework for managing service reliability. They allow teams to balance innovation with reliability by making informed decisions based on user-centric metrics.
+
+For a detailed explanation of SLIs, SLOs, SLAs, and Error Budgets, including formulas and examples, please see the dedicated document:
+-   [**Service Level Management**](./service-level-mgt.md)
 
 ---
 
