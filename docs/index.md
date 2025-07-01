@@ -1,6 +1,6 @@
 # Welcome to the SRE Principles Guide
 
-This site is a living collection of Site Reliability Engineering (SRE) best practices, built from over eight years of hands-on experience in building and maintaining scalable, reliable, and efficient systems.
+This site is a living collection of Site Reliability Engineering (SRE) best practices, designed to be a practical resource for building and maintaining scalable, reliable, and efficient systems.
 
 ## Our Core Philosophy
 
