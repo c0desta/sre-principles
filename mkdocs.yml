@@ -1,6 +1,8 @@
 site_name: SRE Principles
 site_author: c0desta
 
+docs_dir: .
+
 theme:
   name: material
   features:
@@ -26,18 +28,17 @@ theme:
 
 nav:
   - Home: README.md
-  - Core Concepts:
-    - Service Level Management: service-level-mgt.md
-    - Toil Reduction: toil-reduction.md
-  - Pillars:
-    - CI/CD: ci-cd.md
-    - Collaboration: collab.md
-    - Compliance: complaince.md
-    - Cost Management: cost-mgt.md
-    - Incident Management: incident-mgt.md
-    - Knowledge Sharing: knowledge-base.md
-    - Monitoring & Logging: monitoring-logging.md
-    - Performance: performance.md
-    - Reliability: reliability.md
-    - Scaling: scaling.md
-    - Security: security.md
+  - Service Level Management: service-level-mgt.md
+  - Toil Reduction: toil-reduction.md
+  - SRE Pillars:
+    - CI/CD Pipelines: 'README.md#cicd-pipelines'
+    - Collaboration: 'README.md#collaboration-and-communication'
+    - Compliance: 'README.md#compliance-and-auditing'
+    - Cost Management: 'README.md#cost-management'
+    - Incident Management: 'README.md#incident-management-and-response'
+    - Documentation: 'README.md#knowledge-sharing-and-documentation'
+    - Monitoring: 'README.md#monitoring-logging-and-alerting'
+    - Performance: 'README.md#performance-optimization'
+    - Reliability: 'README.md#reliability-and-resilience'
+    - Scaling: 'README.md#scaling-and-performance-management'
+    - Security: 'README.md#security-best-practices'
