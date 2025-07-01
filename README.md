@@ -6,6 +6,7 @@ This document outlines a set of Site Reliability Engineering (SRE) best practice
 - [CI/CD Pipelines](#cicd-pipelines)
 - [Collaboration and Communication](#collaboration-and-communication)
 - [Service Level Management: SLIs, SLOs, and Error Budgets](#service-level-management-slis-slos-and-error-budgets)
+- [Toil Reduction](#toil-reduction)
 - [Compliance and Security](#compliance-and-security)
 - [Cost Management](#cost-management)
 - [Incident Management](#incident-management)
@@ -104,6 +105,15 @@ Service Level Indicators (SLIs), Service Level Objectives (SLOs), and Error Budg
 
 For a detailed explanation of SLIs, SLOs, SLAs, and Error Budgets, including formulas and examples, please see the dedicated document:
 -   [**Service Level Management**](./service-level-mgt.md)
+
+---
+
+## Toil Reduction
+
+Toil is the manual, repetitive, and automatable work that scales with service growth. A core goal of SRE is to eliminate toil, freeing up engineers for high-value engineering projects that improve service reliability and features.
+
+For a detailed guide on identifying, measuring, and eliminating toil, please see the dedicated document:
+-   [**Toil Reduction**](./toil-reduction.md)
 
 ---
 
