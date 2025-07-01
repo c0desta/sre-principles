@@ -2,6 +2,12 @@
 
 This document outlines a set of Site Reliability Engineering (SRE) best practices, drawing from extensive hands-on experience. These principles are designed to help build and maintain scalable, reliable, and efficient systems.
 
+## Core Philosophy
+
+Site Reliability Engineering (SRE) is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems. The main goal is to create scalable and highly reliable software systems.
+
+At its heart, SRE is what you get when you treat operations as a software problem. Our mission is to protect, provide for, and progress the software and systems behind all of our services. We aim to balance the risk of unavailability with the goal of rapidly and safely launching new features.
+
 ## Table of Contents
 - [CI/CD Pipelines](#cicd-pipelines)
 - [Collaboration and Communication](#collaboration-and-communication)

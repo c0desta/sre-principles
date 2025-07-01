@@ -1,0 +1,43 @@
+site_name: SRE Principles
+site_author: c0desta
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+nav:
+  - Home: README.md
+  - Core Concepts:
+    - Service Level Management: service-level-mgt.md
+    - Toil Reduction: toil-reduction.md
+  - Pillars:
+    - CI/CD: ci-cd.md
+    - Collaboration: collab.md
+    - Compliance: complaince.md
+    - Cost Management: cost-mgt.md
+    - Incident Management: incident-mgt.md
+    - Knowledge Sharing: knowledge-base.md
+    - Monitoring & Logging: monitoring-logging.md
+    - Performance: performance.md
+    - Reliability: reliability.md
+    - Scaling: scaling.md
+    - Security: security.md
