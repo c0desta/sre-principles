@@ -21,5 +21,22 @@ This guide is organized into several key areas. Use the navigation menu to explo
 
 ### SRE Pillars
 
-This documentation covers a wide range of SRE domains, from CI/CD and security to performance and cost management. Please use the navigation menu on the left to browse all available topics.
+This guide is broken down into several key pillars of Site Reliability Engineering. Explore the topics below to dive deeper into each area.
+
+#### System Design & Implementation
+- [Infrastructure Design](./infra-design.md)
+- [CI/CD](./ci-cd.md)
+- [Scaling & Performance](./scaling.md)
+- [Reliability](./reliability.md)
+
+#### Operations & Response
+- [Monitoring & Logging](./monitoring-logging.md)
+- [Incident Management](./incident-mgt.md)
+- [Collaboration](./collab.md)
+
+#### Optimization & Management
+- [Cost Management](./cost-mgt.md)
+- [Performance](./performance.md)
+- [Optimizations](./optimizations.md)
+- [Knowledge Sharing](./knowledge-base.md)
 
