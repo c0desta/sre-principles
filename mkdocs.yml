@@ -1,7 +1,7 @@
 site_name: SRE Principles
 site_author: c0desta
 
-docs_dir: .
+
 
 theme:
   name: material
@@ -27,18 +27,18 @@ theme:
         name: Switch to light mode
 
 nav:
-  - Home: README.md
+  - Home: index.md
   - Service Level Management: service-level-mgt.md
   - Toil Reduction: toil-reduction.md
   - SRE Pillars:
-    - CI/CD Pipelines: 'README.md#cicd-pipelines'
-    - Collaboration: 'README.md#collaboration-and-communication'
-    - Compliance: 'README.md#compliance-and-auditing'
-    - Cost Management: 'README.md#cost-management'
-    - Incident Management: 'README.md#incident-management-and-response'
-    - Documentation: 'README.md#knowledge-sharing-and-documentation'
-    - Monitoring: 'README.md#monitoring-logging-and-alerting'
-    - Performance: 'README.md#performance-optimization'
-    - Reliability: 'README.md#reliability-and-resilience'
-    - Scaling: 'README.md#scaling-and-performance-management'
-    - Security: 'README.md#security-best-practices'
+    - CI/CD Pipelines: 'index.md#cicd-pipelines'
+    - Collaboration: 'index.md#collaboration-and-communication'
+    - Compliance: 'index.md#compliance-and-auditing'
+    - Cost Management: 'index.md#cost-management'
+    - Incident Management: 'index.md#incident-management-and-response'
+    - Documentation: 'index.md#knowledge-sharing-and-documentation'
+    - Monitoring: 'index.md#monitoring-logging-and-alerting'
+    - Performance: 'index.md#performance-optimization'
+    - Reliability: 'index.md#reliability-and-resilience'
+    - Scaling: 'index.md#scaling-and-performance-management'
+    - Security: 'index.md#security-best-practices'
