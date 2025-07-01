@@ -28,17 +28,20 @@ theme:
 
 nav:
   - Home: index.md
-  - Service Level Management: service-level-mgt.md
-  - Toil Reduction: toil-reduction.md
+  - Core Concepts:
+    - Service Level Management: service-level-mgt.md
+    - Toil Reduction: toil-reduction.md
   - SRE Pillars:
-    - CI/CD Pipelines: 'index.md#cicd-pipelines'
-    - Collaboration: 'index.md#collaboration-and-communication'
-    - Compliance: 'index.md#compliance-and-auditing'
-    - Cost Management: 'index.md#cost-management'
-    - Incident Management: 'index.md#incident-management-and-response'
-    - Documentation: 'index.md#knowledge-sharing-and-documentation'
-    - Monitoring: 'index.md#monitoring-logging-and-alerting'
-    - Performance: 'index.md#performance-optimization'
-    - Reliability: 'index.md#reliability-and-resilience'
-    - Scaling: 'index.md#scaling-and-performance-management'
-    - Security: 'index.md#security-best-practices'
+    - CI/CD: ci-cd.md
+    - Collaboration: collab.md
+    - Compliance: compliance.md
+    - Cost Management: cost-mgt.md
+    - Incident Management: incident-mgt.md
+    - Infrastructure Design: infra-design.md
+    - Knowledge Sharing: knowledge-base.md
+    - Monitoring & Logging: monitoring-logging.md
+    - Optimizations: optimizations.md
+    - Performance: performance.md
+    - Reliability: reliability.md
+    - Scaling: scaling.md
+    - Security: security.md
