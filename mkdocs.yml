@@ -28,23 +28,26 @@ theme:
 
 nav:
   - Home: 'index.md'
+  - ---
   - 'Core Concepts':
     - 'Service Level Management': 'service-level-mgt.md'
     - 'Toil Reduction': 'toil-reduction.md'
     - 'Compliance': 'compliance.md'
     - 'Security': 'security.md'
+  - ---
   - 'System Design & Implementation':
     - 'Infrastructure Design': 'infra-design.md'
     - 'CI/CD': 'ci-cd.md'
     - 'Scaling & Performance': 'scaling.md'
     - 'Reliability': 'reliability.md'
+  - ---
   - 'Operations & Response':
     - 'Monitoring & Logging': 'monitoring-logging.md'
     - 'Incident Management': 'incident-mgt.md'
     - 'Collaboration': 'collab.md'
+  - ---
   - 'Optimization & Management':
     - 'Cost Management': 'cost-mgt.md'
     - 'Performance': 'performance.md'
     - 'Optimizations': 'optimizations.md'
     - 'Knowledge Sharing': 'knowledge-base.md'
-    - Security: security.md
