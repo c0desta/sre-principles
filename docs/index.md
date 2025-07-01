@@ -143,4 +143,4 @@ For a detailed guide on identifying, measuring, and eliminating toil, please see
 
 For a fully rendered and easily navigable version of this documentation, please visit our documentation website.
 
-**(You will add the link here after the site is deployed)**
+[**(SRE Principles)**](https://c0desta.github.io/sre-principles/)
