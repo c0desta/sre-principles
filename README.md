@@ -1,4 +1,7 @@
-# SRE Best Practices: A Guide Based on 8-9 Years of Experience
+# The SRE Principles
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https:///sre-principles.pages.dev)
 
 This document outlines a set of Site Reliability Engineering (SRE) best practices, drawing from extensive hands-on experience. These principles are designed to help build and maintain scalable, reliable, and efficient systems.
 
