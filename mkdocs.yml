@@ -30,10 +30,11 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Core Concepts':
-    - 'Service Level Management': 'service-level-mgt.md'
     - 'Toil Reduction': 'toil-reduction.md'
     - 'Compliance': 'compliance.md'
     - 'Security': 'security.md'
+    - 'Velocity vs. Risk': 'velocity-vs-risk.md'
+    - 'Service Level Management': 'service-level-mgt.md'
   - 'System Design & Implementation':
     - 'Infrastructure Design': 'infra-design.md'
     - 'CI/CD': 'ci-cd.md'
